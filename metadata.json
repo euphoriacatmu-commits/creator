@@ -1,0 +1,5 @@
+{
+  "name": "PenScape",
+  "description": "A specialized Markdown editor for WeChat Official Accounts featuring real-time styling, inline-style injection, and AI-inspired theme generation.",
+  "requestFramePermissions": []
+}
